@@ -21,5 +21,9 @@ This Github provides ACF, AMDF, and HODEO-based voice activity detection codes.
 We found that the HODEO-based Voice Activity Detection (VAD) approach might be better suited for the elderly population compared to ACF and AMDF-based methods.
 However, since I had access to only a limited amount of elderly speech data, further validation would necessitate the use of various datasets with appropriate ground truths.
 
+The HODEO-based voice activity detection module was integrated into my [Speech Analysis Software after 2016](https://github.com/JihyeMooon/Speech-Analysis-Software/)!
+
 Please feel free to contact me at husky.jihye.moon@gmail.com if you are interested in! :) 
+
+
 
