@@ -13,12 +13,13 @@ Through this work, I have delved deeply into speech signal processing and experi
 ## Source Code
 This Github provides ACF, AMDF, and HODEO-based voice activity detection codes.
 
-> Put your data (data.wav) and run 'Moon_2016_Scratch_Voice_Activity_Detection.m'
+> Put your data (data.wav) and run 'Code/Moon_2016_Scratch_Voice_Activity_Detection.m'
 
 ## Results
 ![image](https://github.com/JihyeMooon/Moon_Voice_Activity_Detection/assets/112595759/1e817bba-94b9-4870-9005-9931b887fae2)
 
-We found that the HODEO-based Voice Activity Detection (VAD) approach might be better suited for the elderly population compared to ACF and AMDF-based methods. However, since I had access to only a limited amount of elderly speech data, further validation would necessitate the use of various datasets with appropriate ground truths.
+We found that the HODEO-based Voice Activity Detection (VAD) approach might be better suited for the elderly population compared to ACF and AMDF-based methods.
+However, since I had access to only a limited amount of elderly speech data, further validation would necessitate the use of various datasets with appropriate ground truths.
 
 Please feel free to contact me at husky.jihye.moon@gmail.com if you are interested in! :) 
 
